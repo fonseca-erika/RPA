@@ -1,8 +1,6 @@
 # Robotic Process Automation (RPA)
 
-Robotic process automation (or RPA) is a form of business process automation technology based on metaphorical software robots (bots) or on artificial intelligence (AI)/digital workers.
-
-<p align=right><i>Source: Wikipidia</i></p>
+Robotic process automation (or RPA) is a form of business process automation technology based on metaphorical software robots (bots) or on artificial intelligence (AI)/digital workers. <p align=right><i>Source: Wikipedia</i></p>
 
 This definition sounds confusing but the idea is quite simple the first element that we have to think is business process, that by definition is a series of actions that you take in order, under a set of predefined rules, to achieve a result. Some tasks in a process are dull, because they are repetitive and usually have to be done by humans only because of systems' inefficiency. The automation means that robots are programmed to perform the same operations that would be done by a human.
 
